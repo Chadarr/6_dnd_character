@@ -43,7 +43,6 @@ RUNIC_ALPHABET = {
 TEMPLATES_FOLDER = 'templates'
 TEMPLATE_NAME = 'charsheet.svg'
 RESULT_NAME = 'filled_charsheet.svg'
-NUM_OF_TEMPLATES_TO_GENERATE = 10
 
 
 def str_to_runic(skill: str):
